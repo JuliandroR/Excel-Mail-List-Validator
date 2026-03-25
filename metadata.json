@@ -1,0 +1,5 @@
+{
+  "name": "Excel Email Validator",
+  "description": "A robust tool to parse Excel files, automatically detect email columns, and validate email addresses for structure and hidden characters.",
+  "requestFramePermissions": []
+}
